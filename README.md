@@ -53,7 +53,7 @@ Run the StudentServices class using the java command.\
 13.	Exit
 ## Authors
 
-- [@octokatherine](https://www.github.com/deshmukhrahulrmd)
+- [@deshmukhrahulrmd](https://www.github.com/deshmukhrahulrmd)
 
 
 ## Badges
