@@ -1,5 +1,14 @@
 Download MySQL connector jar:- https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/8.0.31/
-
+Steps to add JAR file to project:
+1. Create Java Project.
+2. Right click on Projct.
+3. Click on Build Path.
+4. Click on Configure Build Path.
+5. Select Library, Select Classpath.
+6. Click on Add External JAR's.
+7. Choose the path where downloaded JAR is present.
+8. Click on Apply & Close.
+   
 **JDBC Student Management System**
 
 Introduction
